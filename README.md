@@ -1,3 +1,4 @@
+# XYZReader
 XYZReader is an android application that displays articles. <br />
 An emphasis was put on material design guidelines. <br />
 <br />

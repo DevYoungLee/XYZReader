@@ -1,5 +1,5 @@
 # XYZReader
-XYZReader is an android application that displays articles. <br />
+XYZReader is an android application written in Java that displays articles. <br />
 An emphasis was put on material design guidelines. <br />
 <br />
 The main screen displays lists of items in a grid format: <br />
